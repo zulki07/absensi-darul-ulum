@@ -1,0 +1,12 @@
+/node_modules
+/public/storage
+/vendor
+.env
+.env.backup
+.env.production
+*.sqlite
+*.sqlite-journal
+*.sqlite-shm
+*.sqlite-wal
+/.idea
+/.vscode

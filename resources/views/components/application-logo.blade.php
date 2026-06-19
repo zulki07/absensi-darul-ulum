@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo-darululum.png') }}" class="h-24 w-auto drop-shadow-lg mx-auto" alt="Logo Darul Ulum">
